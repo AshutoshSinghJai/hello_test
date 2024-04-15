@@ -1,3 +1,4 @@
 # hello_test
-setting up git
+setting git
 git setting is updated
+new deletion
